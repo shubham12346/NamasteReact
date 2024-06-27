@@ -77,13 +77,8 @@ root.render(parent);
 
 ```
 
-- **Comments**:
-- **Cross-Origin Attribute**: Allows accessing resources from different origins.
-- **CDN (Content Delivery Network)**: A distributed network of servers to deliver web content efficiently by serving requests from the nearest server.
-- **React's `render` Method**: Puts the React element (object) into the actual DOM.
-
-- **Limitations and Use Cases**:
+- Cross-Origin Attribute: Allows accessing resources from different origins.
+- CDN (Content Delivery Network): A distributed network of servers to deliver web content efficiently by serving requests from the nearest server.
+- React's `render` Method**: Puts the React element (object) into the actual DOM.
 - React can work in various parts of the application (header, footer, etc.) and can be used to build large, scalable applications despite being a library, not a full-fledged framework.
-
-This should give you a clear understanding of each part of your React code and how it functions.
 ```
