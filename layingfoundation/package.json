@@ -1,0 +1,24 @@
+{
+  "name": "layingfoundation",
+  "version": "1.0.0",
+  "description": "Laying out the foundation ",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "React",
+    "parcel"
+  ],
+  "author": "Shubam Agrahari",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
