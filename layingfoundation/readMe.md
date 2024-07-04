@@ -1,6 +1,8 @@
 # What is JSX
 
+```
 const jsxExample = <h1>This is JSX </h1>
+```
 
 - JSX is not html inside JS
 - JSX is similiar like HTML and It is totally different
