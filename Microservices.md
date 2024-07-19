@@ -16,6 +16,8 @@ Microservice architecture is an approach where software components are written i
 
 ### Development Process
 
+s
+
 - **Monolithic**: Easier to start but becomes complex as the application grows and more modules are added.
 - **Microservices**: Initially requires planning and design for the entire system, but as the application grows, it remains simple and offers high code reusability.
 
